@@ -1,6 +1,1 @@
-# Project Demo
-
-Here’s a quick demo of the project:
-
-### How to Use
-- Click the thumbnail above or [download the video](demo.mp4) to view it.
+<video src='video1.mov' width=180/> | <video src='Demo-Video.mp4' width=180/>
